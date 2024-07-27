@@ -1,0 +1,46 @@
+.content{
+    width: 50px;
+    background-color: rgb(214, 214, 214);
+    padding: 20px;
+    margin: -10px;
+    font-size: 20px;
+    height: 889px;
+}
+
+
+.items div{
+    background-color: gray;
+    color: white;
+    padding:10px
+}
+
+.changeWidth{
+    width: 300px;
+    transition: 2s;
+}
+
+.item{
+    margin: 20px 0px;
+}
+
+/* task 2 */
+
+.post{
+    background-color: grey;
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.elementPost{
+    background-color: aliceblue;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.bodyPost{
+    background-color: rgb(203, 204, 206,0.2);
+    font-size: 30px;
+    padding: 10px 30px;
+}
